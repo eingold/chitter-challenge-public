@@ -1,0 +1,73 @@
+#loggedIn {
+  background-color: darkgreen;
+  color: white
+}
+
+#loggedIn:hover {
+  background-color: darkgreen;
+  color: white
+}
+
+.navbar-custom {
+  background-color: #008000;
+  color: white
+}
+
+.btn-header {
+  background-color: darkgreen;
+  color: white
+}
+
+.btn-header:hover {
+  background-color: lightgreen;
+  color: darkslategrey
+}
+
+.btn-addPost {
+  background-color: green;
+  color: white
+}
+
+.btn-addPost:hover {
+  background-color: darkgreen;
+  color: white
+}
+
+.btn-addPost:disabled {
+  background-color: grey;
+  border: 0px;
+  color: white
+}
+
+body {
+  background-color: #88eb88;
+}
+
+.post {
+  background-color: lightgreen;
+  border-color: #c1f8bb !important;
+}
+
+.post:hover {
+  background-color: #7dd87d;
+}
+
+.post-username {
+  color: darkgreen
+}
+
+.post-content {
+  color: #002e00
+}
+
+.post-date {
+  color: #4c9b4c
+}
+
+.length-warning {
+  color: red
+}
+
+.length-ok {
+  color: darkgreen
+}
